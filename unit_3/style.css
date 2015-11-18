@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: url("images/o-ATLANTA-TRAFFIC-facebook.jpg");
+    background-size: 100% 100vh;
+    background-repeat: no-repeat;
+    color: #fff;
+    font-family: Helvetica;
+}
+.banner {
+    width: 100%;
+    background-color: rgba(0,0,0,0.3);
+}
+h1, p {
+    color: #fff;
+    font-size: 50px;
+}
+hr {
+  width: 200px;
+}
+p {
+  font-size: 22px;
+}
+#slogan {
+    font-size: 20px;
+}
+#contact {
+    text-transform: underline;
+    cursor: pointer; 
+}
